@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using [clean-cra Template](https://github.com/JorgePasco1/cra-template-clean-cra).
+![Снимок](https://user-images.githubusercontent.com/83901431/142805837-4830e053-87fb-4dea-9358-54ba57da0513.PNG)
+
+
+
 
 ## Available Scripts
 
